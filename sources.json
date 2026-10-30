@@ -1,0 +1,82 @@
+{
+  "sites": [
+    {
+      "key": "guoapp:hongguo",
+      "name": "红果",
+      "type": "guoapp",
+      "api": "hongguo"
+    },
+    {
+      "key": "guoapp:hema",
+      "name": "河马剧场",
+      "type": "guoapp",
+      "api": "hema"
+    },
+    {
+      "key": "guoapp:fanhua",
+      "name": "繁花剧场",
+      "type": "guoapp",
+      "api": "fanhua"
+    },
+    {
+      "key": "guoapp:hanxiaoquan",
+      "name": "韩小圈",
+      "type": "guoapp",
+      "api": "hanxiaoquan"
+    },
+    {
+      "key": "guoapp:guipian",
+      "name": "鬼片",
+      "type": "guoapp",
+      "api": "guipian"
+    },
+    {
+      "key": "guoapp:sorani",
+      "name": "青空",
+      "type": "guoapp",
+      "api": "sorani"
+    },
+    {
+      "key": "guoapp:huangdou",
+      "name": "黄豆",
+      "type": "guoapp",
+      "api": "huangdou"
+    },
+    {
+      "key": "guoapp:huangju",
+      "name": "剧果",
+      "type": "guoapp",
+      "api": "huangju"
+    },
+    {
+      "key": "guoapp:yeguo",
+      "name": "野果",
+      "type": "guoapp",
+      "api": "yeguo"
+    },
+    {
+      "key": "guoapp:dsd",
+      "name": "帝果",
+      "type": "guoapp",
+      "api": "dsd"
+    },
+    {
+      "key": "guoapp:huangguo-video",
+      "name": "黄果视频",
+      "type": "guoapp",
+      "api": "huangguo-video"
+    },
+    {
+      "key": "guoapp:huangguoai",
+      "name": "黄果 AI",
+      "type": "guoapp",
+      "api": "huangguoai"
+    },
+    {
+      "key": "guoapp:cloudfront",
+      "name": "黄果旧版",
+      "type": "guoapp",
+      "api": "cloudfront"
+    }
+  ]
+}
